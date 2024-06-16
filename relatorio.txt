@@ -1,0 +1,29 @@
+Relatório de Processamento de Dados
+==================================================
+Dados Processados:
+       County  Media_DOL_Vehicle_ID         D
+0         Ada              0.433529  0.650293
+1       Adams              0.448426  0.672639
+2     Alameda              0.486531  0.729796
+3   Albemarle              0.368180  0.552270
+4  Alexandria              0.285523  0.428285
+
+Estatísticas Descritivas:
+          Postal Code     Model Year  Electric Range      Base MSRP  Legislative District  DOL Vehicle ID  2020 Census Tract              E
+count   186876.000000  186879.000000   186879.000000  186879.000000         186476.000000   186879.000000       1.868760e+05  186878.000000
+mean     98177.500144    2020.659614       56.707790    1011.918487             29.069012        0.464388       5.297773e+10      -0.877079
+std       2374.643395       2.991398       90.788807    8115.767740             14.900971        0.155736       1.570887e+09       0.667430
+min       1731.000000    1997.000000        0.000000       0.000000              1.000000        0.000000       1.001020e+09     -14.016472
+25%      98052.000000    2019.000000        0.000000       0.000000             18.000000        0.386191       5.303301e+10      -0.951414
+50%      98122.000000    2022.000000        0.000000       0.000000             33.000000        0.480341       5.303303e+10      -0.733259
+75%      98371.000000    2023.000000       73.000000       0.000000             42.000000        0.537913       5.305307e+10      -0.620059
+max      99577.000000    2024.000000      337.000000  845000.000000             49.000000        1.000000       5.603300e+10       0.000000
+median   98122.000000    2022.000000        0.000000       0.000000             33.000000        0.480341       5.303303e+10      -0.733259
+
+![grafico_barras.png](./output\grafico_barras.png)
+
+![grafico_dispersao_DOL Vehicle ID_vs_E.png](./output\grafico_dispersao_DOL Vehicle ID_vs_E.png)
+
+![histograma_County.png](./output\histograma_County.png)
+
+![histograma_DOL Vehicle ID.png](./output\histograma_DOL Vehicle ID.png)

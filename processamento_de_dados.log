@@ -1,0 +1,175 @@
+2024-06-16 02:02:32,725 - INFO - Diretório ./output já existe.
+2024-06-16 02:02:33,073 - INFO - Arquivo sales_data.csv lido com sucesso.
+2024-06-16 02:02:33,113 - INFO - Dados limpos com sucesso.
+2024-06-16 02:02:33,125 - INFO - Dados normalizados com sucesso.
+2024-06-16 02:02:33,186 - INFO - Filtros aplicados com sucesso.
+2024-06-16 02:02:33,320 - INFO - Dados transformados com sucesso.
+2024-06-16 02:02:33,456 - INFO - Análise estatística realizada com sucesso.
+2024-06-16 02:02:37,646 - INFO - Dados exportados para Excel em: dados_processados.xlsx
+2024-06-16 02:02:38,544 - INFO - Dados exportados para CSV em: dados_processados.csv
+2024-06-16 02:02:39,149 - INFO - Dados exportados para JSON em: dados_processados.json
+2024-06-16 02:02:41,638 - INFO - Dados exportados para SQLite em: dados_processados.sqlite
+2024-06-16 02:02:43,004 - INFO - Relatório salvo em: relatorio.txt
+2024-06-16 02:02:45,745 - INFO - Gráfico de barras criado e salvo com sucesso.
+2024-06-16 02:02:56,091 - ERROR - Erro ao criar o histograma: '3'
+2024-06-16 02:05:27,875 - INFO - Diretório ./output já existe.
+2024-06-16 02:05:28,236 - INFO - Arquivo sales_data.csv lido com sucesso.
+2024-06-16 02:05:28,281 - INFO - Dados limpos com sucesso.
+2024-06-16 02:05:28,295 - INFO - Dados normalizados com sucesso.
+2024-06-16 02:05:28,359 - INFO - Filtros aplicados com sucesso.
+2024-06-16 02:05:28,503 - INFO - Dados transformados com sucesso.
+2024-06-16 02:05:28,643 - INFO - Análise estatística realizada com sucesso.
+2024-06-16 02:05:29,817 - INFO - Dados exportados para Excel em: dados_processados.xlsx
+2024-06-16 02:05:30,335 - INFO - Dados exportados para CSV em: dados_processados.csv
+2024-06-16 02:05:30,847 - INFO - Dados exportados para JSON em: dados_processados.json
+2024-06-16 02:05:31,558 - INFO - Dados exportados para SQLite em: dados_processados.sqlite
+2024-06-16 02:05:32,925 - INFO - Relatório salvo em: relatorio.txt
+2024-06-16 02:05:33,708 - INFO - Gráfico de barras criado e salvo com sucesso.
+2024-06-16 02:05:36,299 - ERROR - Erro ao criar o histograma: '4'
+2024-06-16 02:08:39,685 - INFO - Diretório ./output já existe.
+2024-06-16 02:08:40,052 - INFO - Arquivo sales_data.csv lido com sucesso.
+2024-06-16 02:08:40,093 - INFO - Dados limpos com sucesso.
+2024-06-16 02:08:40,104 - INFO - Dados normalizados com sucesso.
+2024-06-16 02:08:40,168 - INFO - Filtros aplicados com sucesso.
+2024-06-16 02:08:40,305 - INFO - Dados transformados com sucesso.
+2024-06-16 02:08:40,434 - INFO - Análise estatística realizada com sucesso.
+2024-06-16 02:08:41,651 - INFO - Dados exportados para Excel em: dados_processados.xlsx
+2024-06-16 02:08:42,181 - INFO - Dados exportados para CSV em: dados_processados.csv
+2024-06-16 02:08:42,796 - INFO - Dados exportados para JSON em: dados_processados.json
+2024-06-16 02:08:44,857 - INFO - Exportação para SQLite cancelada: dados_processados.sqlite
+2024-06-16 02:08:49,870 - INFO - Relatório salvo em: relatorio.txt
+2024-06-16 02:08:49,872 - INFO - Gráficos incluídos no relatório com sucesso.
+2024-06-16 02:08:54,364 - ERROR - Erro ao criar o histograma: '4'
+2024-06-16 02:09:04,388 - INFO - Diretório ./output já existe.
+2024-06-16 02:09:04,740 - INFO - Arquivo sales_data.csv lido com sucesso.
+2024-06-16 02:09:04,781 - INFO - Dados limpos com sucesso.
+2024-06-16 02:09:04,794 - INFO - Dados normalizados com sucesso.
+2024-06-16 02:09:04,856 - INFO - Filtros aplicados com sucesso.
+2024-06-16 02:09:04,989 - INFO - Dados transformados com sucesso.
+2024-06-16 02:09:05,123 - INFO - Análise estatística realizada com sucesso.
+2024-06-16 02:09:06,228 - INFO - Dados exportados para Excel em: dados_processados.xlsx
+2024-06-16 02:09:06,681 - INFO - Dados exportados para CSV em: dados_processados.csv
+2024-06-16 02:09:07,198 - INFO - Dados exportados para JSON em: dados_processados.json
+2024-06-16 02:09:08,102 - INFO - Dados exportados para SQLite em: dados_processados.sqlite
+2024-06-16 02:09:09,043 - INFO - Relatório salvo em: relatorio.txt
+2024-06-16 02:09:09,044 - INFO - Gráficos incluídos no relatório com sucesso.
+2024-06-16 02:09:13,123 - INFO - Gráfico de barras criado e salvo com sucesso.
+2024-06-16 02:09:20,432 - INFO - Diretório ./output já existe.
+2024-06-16 02:09:20,784 - INFO - Arquivo sales_data.csv lido com sucesso.
+2024-06-16 02:09:20,826 - INFO - Dados limpos com sucesso.
+2024-06-16 02:09:20,841 - INFO - Dados normalizados com sucesso.
+2024-06-16 02:09:20,907 - INFO - Filtros aplicados com sucesso.
+2024-06-16 02:09:21,035 - INFO - Dados transformados com sucesso.
+2024-06-16 02:09:21,163 - INFO - Análise estatística realizada com sucesso.
+2024-06-16 02:09:22,371 - INFO - Dados exportados para Excel em: dados_processados.xlsx
+2024-06-16 02:09:22,707 - INFO - Dados exportados para CSV em: dados_processados.csv
+2024-06-16 02:09:23,254 - INFO - Dados exportados para JSON em: dados_processados.json
+2024-06-16 02:09:23,772 - INFO - Dados exportados para SQLite em: dados_processados.sqlite
+2024-06-16 02:09:24,345 - INFO - Relatório salvo em: relatorio.txt
+2024-06-16 02:09:24,347 - INFO - Gráficos incluídos no relatório com sucesso.
+2024-06-16 02:09:27,985 - ERROR - Erro ao criar o histograma: '5'
+2024-06-16 02:11:39,413 - INFO - Diretório ./output já existe.
+2024-06-16 02:11:39,859 - INFO - Arquivo sales_data.csv lido com sucesso.
+2024-06-16 02:11:39,903 - INFO - Dados limpos com sucesso.
+2024-06-16 02:11:39,919 - INFO - Dados normalizados com sucesso.
+2024-06-16 02:11:40,029 - INFO - Filtros aplicados com sucesso.
+2024-06-16 02:11:40,160 - INFO - Dados transformados com sucesso.
+2024-06-16 02:11:40,302 - INFO - Análise estatística realizada com sucesso.
+2024-06-16 02:11:41,392 - INFO - Dados exportados para Excel em: dados_processados.xlsx
+2024-06-16 02:11:41,680 - INFO - Dados exportados para CSV em: dados_processados.csv
+2024-06-16 02:11:42,303 - INFO - Dados exportados para JSON em: dados_processados.json
+2024-06-16 02:11:43,153 - INFO - Dados exportados para SQLite em: dados_processados.sqlite
+2024-06-16 02:11:43,935 - INFO - Relatório salvo em: relatorio.txt
+2024-06-16 02:11:43,938 - INFO - Gráficos incluídos no relatório com sucesso.
+2024-06-16 02:11:47,577 - ERROR - Coluna '4' não encontrada no DataFrame.
+2024-06-16 02:14:46,070 - INFO - Diretório ./output já existe.
+2024-06-16 02:14:46,419 - INFO - Arquivo sales_data.csv lido com sucesso.
+2024-06-16 02:14:46,461 - INFO - Dados limpos com sucesso.
+2024-06-16 02:14:46,474 - INFO - Dados normalizados com sucesso.
+2024-06-16 02:14:46,537 - INFO - Filtros aplicados com sucesso.
+2024-06-16 02:14:46,677 - INFO - Dados transformados com sucesso.
+2024-06-16 02:14:46,816 - INFO - Análise estatística realizada com sucesso.
+2024-06-16 02:14:48,442 - INFO - Dados exportados para Excel em: dados_processados.xlsx
+2024-06-16 02:14:48,994 - INFO - Dados exportados para CSV em: dados_processados.csv
+2024-06-16 02:14:49,434 - INFO - Dados exportados para JSON em: dados_processados.json
+2024-06-16 02:14:50,042 - INFO - Dados exportados para SQLite em: dados_processados.sqlite
+2024-06-16 02:14:50,855 - INFO - Relatório salvo em: relatorio.txt
+2024-06-16 02:14:50,856 - INFO - Gráficos incluídos no relatório com sucesso.
+2024-06-16 02:15:06,792 - ERROR - Erro ao criar o histograma: 'value' must be an instance of str or bytes, not a float
+2024-06-16 02:15:12,615 - INFO - Diretório ./output já existe.
+2024-06-16 02:15:13,012 - INFO - Arquivo sales_data.csv lido com sucesso.
+2024-06-16 02:15:13,055 - INFO - Dados limpos com sucesso.
+2024-06-16 02:15:13,068 - INFO - Dados normalizados com sucesso.
+2024-06-16 02:15:13,129 - INFO - Filtros aplicados com sucesso.
+2024-06-16 02:15:13,263 - INFO - Dados transformados com sucesso.
+2024-06-16 02:15:13,399 - INFO - Análise estatística realizada com sucesso.
+2024-06-16 02:15:24,712 - INFO - Exportação para Excel cancelada: dados_processados.xlsx
+2024-06-16 02:15:30,796 - INFO - Diretório ./output já existe.
+2024-06-16 02:15:31,160 - INFO - Arquivo sales_data.csv lido com sucesso.
+2024-06-16 02:15:31,203 - INFO - Dados limpos com sucesso.
+2024-06-16 02:15:31,216 - INFO - Dados normalizados com sucesso.
+2024-06-16 02:15:31,276 - INFO - Filtros aplicados com sucesso.
+2024-06-16 02:15:31,418 - INFO - Dados transformados com sucesso.
+2024-06-16 02:15:31,556 - INFO - Análise estatística realizada com sucesso.
+2024-06-16 02:15:32,639 - INFO - Dados exportados para Excel em: dados_processados.xlsx
+2024-06-16 02:15:33,195 - INFO - Dados exportados para CSV em: dados_processados.csv
+2024-06-16 02:15:33,641 - INFO - Dados exportados para JSON em: dados_processados.json
+2024-06-16 02:15:35,384 - INFO - Dados exportados para SQLite em: dados_processados.sqlite
+2024-06-16 02:15:36,639 - INFO - Relatório salvo em: relatorio.txt
+2024-06-16 02:15:36,640 - INFO - Gráficos incluídos no relatório com sucesso.
+2024-06-16 02:15:52,384 - INFO - Histograma de County criado e salvo com sucesso.
+2024-06-16 02:20:17,639 - INFO - Diretório ./output já existe.
+2024-06-16 02:20:18,015 - INFO - Arquivo sales_data.csv lido com sucesso.
+2024-06-16 02:20:18,060 - INFO - Dados limpos com sucesso.
+2024-06-16 02:20:18,073 - INFO - Dados normalizados com sucesso.
+2024-06-16 02:20:18,137 - INFO - Filtros aplicados com sucesso.
+2024-06-16 02:20:18,274 - INFO - Dados transformados com sucesso.
+2024-06-16 02:20:18,407 - INFO - Análise estatística realizada com sucesso.
+2024-06-16 02:20:21,401 - INFO - Dados exportados para Excel em: dados_processados.xlsx
+2024-06-16 02:20:21,819 - INFO - Dados exportados para CSV em: dados_processados.csv
+2024-06-16 02:20:22,200 - INFO - Dados exportados para JSON em: dados_processados.json
+2024-06-16 02:20:22,795 - INFO - Dados exportados para SQLite em: dados_processados.sqlite
+2024-06-16 02:20:23,397 - INFO - Relatório salvo em: relatorio.txt
+2024-06-16 02:20:23,398 - INFO - Gráficos incluídos no relatório com sucesso.
+2024-06-16 02:20:39,253 - INFO - Diretório ./output já existe.
+2024-06-16 02:20:39,620 - INFO - Arquivo sales_data.csv lido com sucesso.
+2024-06-16 02:20:39,665 - INFO - Dados limpos com sucesso.
+2024-06-16 02:20:39,679 - INFO - Dados normalizados com sucesso.
+2024-06-16 02:20:39,748 - INFO - Filtros aplicados com sucesso.
+2024-06-16 02:20:39,890 - INFO - Dados transformados com sucesso.
+2024-06-16 02:20:40,032 - INFO - Análise estatística realizada com sucesso.
+2024-06-16 02:20:40,985 - INFO - Dados exportados para Excel em: dados_processados.xlsx
+2024-06-16 02:20:41,272 - INFO - Dados exportados para CSV em: dados_processados.csv
+2024-06-16 02:20:41,710 - INFO - Dados exportados para JSON em: dados_processados.json
+2024-06-16 02:20:42,095 - INFO - Dados exportados para SQLite em: dados_processados.sqlite
+2024-06-16 02:20:42,541 - INFO - Relatório salvo em: relatorio.txt
+2024-06-16 02:20:42,543 - INFO - Gráficos incluídos no relatório com sucesso.
+2024-06-16 02:20:48,043 - ERROR - Erro ao criar o histograma: 'value' must be an instance of str or bytes, not a float
+2024-06-16 02:20:53,237 - INFO - Diretório ./output já existe.
+2024-06-16 02:20:53,582 - INFO - Arquivo sales_data.csv lido com sucesso.
+2024-06-16 02:20:53,628 - INFO - Dados limpos com sucesso.
+2024-06-16 02:20:53,642 - INFO - Dados normalizados com sucesso.
+2024-06-16 02:20:53,710 - INFO - Filtros aplicados com sucesso.
+2024-06-16 02:20:53,854 - INFO - Dados transformados com sucesso.
+2024-06-16 02:20:54,000 - INFO - Análise estatística realizada com sucesso.
+2024-06-16 02:20:55,500 - INFO - Dados exportados para Excel em: dados_processados.xlsx
+2024-06-16 02:20:55,980 - INFO - Dados exportados para CSV em: dados_processados.csv
+2024-06-16 02:20:56,423 - INFO - Dados exportados para JSON em: dados_processados.json
+2024-06-16 02:20:56,885 - INFO - Dados exportados para SQLite em: dados_processados.sqlite
+2024-06-16 02:20:57,356 - INFO - Relatório salvo em: relatorio.txt
+2024-06-16 02:20:57,359 - INFO - Gráficos incluídos no relatório com sucesso.
+2024-06-16 02:21:11,982 - INFO - Gráfico de barras criado e salvo com sucesso.
+2024-06-16 02:23:15,654 - INFO - Diretório ./output já existe.
+2024-06-16 02:23:16,010 - INFO - Arquivo sales_data.csv lido com sucesso.
+2024-06-16 02:23:16,055 - INFO - Dados limpos com sucesso.
+2024-06-16 02:23:16,068 - INFO - Dados normalizados com sucesso.
+2024-06-16 02:23:16,133 - INFO - Filtros aplicados com sucesso.
+2024-06-16 02:23:16,270 - INFO - Dados transformados com sucesso.
+2024-06-16 02:23:16,403 - INFO - Análise estatística realizada com sucesso.
+2024-06-16 02:23:18,125 - INFO - Dados exportados para Excel em: dados_processados.xlsx
+2024-06-16 02:23:18,470 - INFO - Dados exportados para CSV em: dados_processados.csv
+2024-06-16 02:23:18,849 - INFO - Dados exportados para JSON em: dados_processados.json
+2024-06-16 02:23:19,317 - INFO - Dados exportados para SQLite em: dados_processados.sqlite
+2024-06-16 02:23:20,211 - INFO - Relatório salvo em: relatorio.txt
+2024-06-16 02:23:20,213 - INFO - Gráficos incluídos no relatório com sucesso.
+2024-06-16 02:23:28,202 - INFO - Gráfico de barras criado e salvo com sucesso.
